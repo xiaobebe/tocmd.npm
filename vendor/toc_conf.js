@@ -14,7 +14,3 @@ var jquery_ztree_toc_opts = {
 				'height': $(window).height() + 'px'
     }
 }
-var markdown_panel_style = {
-    'width':'70%',
-    'margin-left':'25%'
-};
